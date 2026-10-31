@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="database" path="striv.db" />
+    <exclude domain="database" path="striv.db-journal" />
+    <exclude domain="database" path="striv.db-wal" />
+    <exclude domain="database" path="striv.db-shm" />
+    <exclude domain="file" path="." />
+    <exclude domain="sharedpref" path="." />
+    <exclude domain="root" path="." />
+    <exclude domain="external" path="." />
+</full-backup-content>
